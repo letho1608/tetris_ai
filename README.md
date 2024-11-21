@@ -1,28 +1,13 @@
-<<<<<<< HEAD
-# tetris_ai
-Tetris game played by AI
-=======
-Got it! Here's a `README.md` written according to a more structured code-centric style:
-
-```markdown
 # Tetris AI
 
 ## Introduction
 
-This repository contains Python code to train an AI agent to play Tetris using Reinforcement Learning. It serves as a simple example of applying RL to a classic game environment.
+This repository contains Python code to train an AI agent to play Tetris using Q learning.
 
 <p align="center">
   <img src="demo/tetris.gif" width=600><br/>
   <i>Tetris AI Demo</i>
 </p>
-
-## Requirements
-
-Before running the code, make sure you have the required dependencies installed. You can install them using:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## How to Use
 
