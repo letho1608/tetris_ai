@@ -35,5 +35,3 @@ You can find the pre-trained model files in the `trained_models/tetris` director
 - `test.py`: Script to test the trained AI model.
 - `trained_models/tetris`: Folder containing the pre-trained models.
 - `demo/tetris.gif`: GIF showing the Tetris game in action.
-
->>>>>>> 2a052d8 (Initial commit)
